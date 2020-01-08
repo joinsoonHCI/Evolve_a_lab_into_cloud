@@ -3,7 +3,7 @@
 
 - The big 3, the company part: among AWS, GCP, Azure, AWS is good at cloud per se, the "Ops" part; Azure is good at the "Dev" part, especially with the MS side; GCP is also good at the "Dev" part, but especially the open source side.
 
-- MS C# vs Java and others and Dev and Ops: 
+- MS C# vs Java and others and Dev vs Ops: 
     * The differences between MS and Google, the traditional MS vs open source, are less obvious now, because MS open sourced many things. 
     * So, we should treat .Net, C#, F# the same as Java, python, node.js, and other languages. 
     * As a matter of fact, on cloud, the focus is not "standardize on this or that"; instead, it is to synthesize， orchestra， or choreography multiple parts regardless their languages. 
