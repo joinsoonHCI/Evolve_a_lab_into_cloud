@@ -13,7 +13,7 @@
     * Summary of the above: the "String theory architecture" in cloud 
 	    - Natural Language Processing, text/git 
 		- Microservice, functional language
-        - NoSQL database, log-centric a.k.a. event sourcing		
+        - NoSQL database, log-centric/stream processing/event sourcing		
 		
 - MS C# vs Java-and-others 
     * The differences between MS and Sun (Oracle) and Google, the traditional MS vs open source, are less obvious now, because MS open sourced many things. 
