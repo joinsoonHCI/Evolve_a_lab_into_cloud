@@ -3,13 +3,18 @@
 
     * AI is also related to another low profile but important thing, text and git. The path of the relationship is:  
         - AI -> natural language processing -> speech to text -> the importance of text -> markdown and ymal -> git. 
-    
+            * So, AI is not just in-depth AI, it has broader impact -- it will change UI.
+		- Conversely, UI has impact on AI also -- the HCI factore: modern AI practice will always be HCI. 
+		
 	* DevOps: cloud is making Dev and Ops into one thing, by integrating 4 things: network-security, server-database-admin, architect, and development. 
 		- One small but significant thing to make Ops closer to Dev: Windows scripting (powershell) is now similar to Linux's.  
 		- Recent years, agile CI/CD is making Dev closer to Ops.    
         - Recent years, micro-services is also making Dev closer to Ops.
 		- Parallel processing brings Dev and Ops together. And, it goes deeper: it brings functional programming. 
-		
+
+    * Big data: it has deeper meaning -- datababses now finally become agile. 
+	    - Conversely, agile is completely changed also. Agile can and should be data-centric now.       
+	
     * Summary of the above: the "string theory architecture" in cloud: 
 	    - Natural Language Processing, text/git 
 		- Microservice, functional language
