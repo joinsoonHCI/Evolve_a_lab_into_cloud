@@ -3,7 +3,7 @@
 - This makes it clear that "transaction" (and related concurrency) is the key, which is a data-centric. 
 - "Data-centric" is not about data; it is about transaction and concurrency. 
 - If we read/watch Eric's book and videos carefully, we would know that DDD is not OO; and, DDD is not necessarily against data-centric point of view.  
-    * The deep reason DDD rejects data-centric is that in the past, data-centric is not agile. Now, because of NoSQL, data-centric is agile.      
+    * The deep reason DDD rejects data-centric is that in the past, data-centric is not agile. Now, because of NoSQL, data-centric can be agile; and, agile can and should be data-centric.      
 
 - The best book about DDD, other than Eric's original, is Domain Modeling Made Functional, by Scott Wlaschin. 
 - Many people, myself included some years ago, think that DDD is OO. That is because Eric's book was written when Java was at its peak.
