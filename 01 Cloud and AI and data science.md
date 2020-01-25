@@ -13,7 +13,8 @@
 		- Parallel processing brings Dev and Ops together. And, it goes deeper: it brings functional programming. 
 
     * Big data: it has deeper meaning -- datababses now finally become agile. 
-	    - Conversely, agile is completely changed also. Agile can and should be data-centric now.       
+	    - Conversely, agile is completely changed also. Agile can and should be data-centric now.
+            - Finally, agile does not need to be painfully evasive from database anymore. Agile is now established in the middle of databases. As a result, agile can and should use relational model and related transaction log and concurrent model， as its most important modeling tool. 
 	
     * Summary of the above: the "string theory architecture" in cloud: 
 	    - Natural Language Processing, text/git 
