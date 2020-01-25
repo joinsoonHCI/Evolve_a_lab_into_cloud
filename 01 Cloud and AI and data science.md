@@ -1,5 +1,5 @@
 
-- The big 3，the technology part： among cloud, AI, and data science, cloud is providing the supporting structure; it is leading the business. 
+- The big 3，the technology part： we have three elements, cloud, AI, and data science. Among them, cloud is providing the supporting structure; so, for now, it is playing the leading role. Cloud is leading the business. But those three are together; they support each other and have synergy with each other. 
 
     * AI is also related to another low profile but important thing, text and git. The path of the relationship is:  
         - AI -> natural language processing -> speech to text -> the importance of text -> markdown and ymal -> git. 
@@ -10,12 +10,12 @@
         - Recent years, micro-services is also making Dev closer to Ops.
 		- Parallel processing brings Dev and Ops together. And, it goes deeper: it brings functional programming. 
 		
-    * Summary of the above: the "String theory architecture" in cloud: 
+    * Summary of the above: the "string theory architecture" in cloud: 
 	    - Natural Language Processing, text/git 
 		- Microservice, functional language
         - NoSQL database, log-centric/stream processing/event sourcing 
 
-    * The architecture is important to navigate and understand cloud.
+    * The "string theory architecture" is important to navigate and understand cloud.
 	    - The roles in cloud are in three groups: AI, users; dev, ops; big data and IoT.
 		    * Agile is most obvious in cloud: creating value for business is the key. So, the differences among roles are much less rigid than before. It is like the early days of Internet: everyone can do everything. But now it is at a higher and therefore cleaner level: we do everything in a secure and orderly manner.			
 		- The areas in cloud are also in those three groups. 
