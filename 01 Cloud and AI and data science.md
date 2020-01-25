@@ -4,7 +4,7 @@
     * AI is also related to another low profile but important thing, text and git. The path of the relationship is:  
         - AI -> natural language processing -> speech to text -> the importance of text -> markdown and ymal -> git. 
             * So, AI is not just in-depth AI, it has broader impact -- it will change UI.
-		- Conversely, UI has impact on AI also -- the HCI factore: modern AI practice will always be HCI. 
+		- Conversely, UI has impact on AI also -- the HCI: modern AI practice will always be HCI. 
 		
 	* DevOps: cloud is making Dev and Ops into one thing, by integrating 4 things: network-security, server-database-admin, architect, and development. 
 		- One small but significant thing to make Ops closer to Dev: Windows scripting (powershell) is now similar to Linux's.  
