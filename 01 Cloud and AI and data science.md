@@ -11,13 +11,14 @@
 		- Recent years, agile CI/CD is making Dev closer to Ops.    
         - Recent years, micro-services is also making Dev closer to Ops.
 		- Parallel processing brings Dev and Ops together. And, it goes deeper: it brings functional programming. 
-
+        - Git has direct impact on DevOps. 
     * Big data: it has deeper meaning -- datababses now finally become agile. 
 	    - Conversely, agile is completely changed also. Agile can and should be data-centric now.
             - Finally, agile does not need to be painfully evasive from database anymore. Agile is now established in the middle of databases. As a result, agile can and should use relational model and related transaction log and concurrent model， as its most important modeling tool. 
-	
+	    - Git has direct impact on agile process also.
+		
     * Summary of the above: the "string theory architecture" in cloud: 
-	    - Natural Language Processing, text/git 
+	    - Natural Language Processing, text/git. Note that git has impact on all 3 parts.  
 		- Microservice, functional language
         - NoSQL database, log-centric/stream processing/event sourcing 
 
