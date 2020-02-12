@@ -27,8 +27,20 @@
 		    * Agile is most obvious in cloud: creating value for business is the key. So, the differences among roles are much less rigid than before. It is like the early days of Internet: everyone can do everything. But now it is at a higher and therefore cleaner level: we do everything in a secure and orderly manner.			
 		- The areas in cloud are also in those three groups. 
 
-- The big 3, the company part: among AWS, GCP, Azure, AWS is good at cloud per se, the "Ops" part; Azure is good at the "Dev" part, especially with the MS side; GCP is also good at the "Dev" part, but especially the open source side.
-
+- The big 3, the company part: AWS, GCP, Azure.
+    * We should use all 3, for the following reasons. 
+	    * We are learning. So, we need to try all 3. 
+	    * Also, at this early stage, if we need something, we have to pick whatever works among those 3.  
+        * It is too early to call which one will win. 
+        * It is likely it will not like the OS war; it is likely that the focus will be co-operation. 
+    * For now, the big 3 each has its own pros and cons. 
+	    * AWS is good at cloud per se, the "Ops" part.
+		* GCP is good at the "Dev" part, but especially (and unfortunately only) on brand new things (e.g. AI and big data). 
+		* Azure is also good at the "Dev" part, on all kinds of apps. 
+			- Among the big 3, only Azure has strong business-line application development tradition.
+			    * Even for Java and other non-MS languages, if it is for business-line business-line applications, it is likely Azure will have more and better support.  
+			- So, although we should use all big 3, and although cloud is inherently "integration-oriented", it is likely that Azure will have a special role among the big 3 -- we will use Azure to integrate AWS, Azure, and GCP. 
+  	        
 - The big 2 -- the two old rivaries: MS C# vs Java-and-others 
     * The differences between MS and Sun (Oracle) and later Google, the traditional MS vs open source, are less obvious now, because MS open sourced many things. 
     * So, we should treat .Net, C#, F# the same as Java, Python, Node.js, and other languages. 
