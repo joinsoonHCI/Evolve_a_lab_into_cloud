@@ -32,7 +32,7 @@
 	    * We are learning. So, we need to try all 3. 
 	    * Also, at this early stage, if we need something, we have to pick whatever works among those 3.  
         * It is too early to call which one will win. 
-        * It is likely it will not like the OS war; it is likely that the focus will be co-operation. 
+        * It is likely it will not like the OS war(s); it is likely that the focus will be inter-operation. 
     * For now, the big 3 each has its own pros and cons. 
 	    * AWS is good at cloud per se, the "Ops" part.
 		* GCP is good at the "Dev" part, but especially (and unfortunately only) on brand new things (e.g. AI and big data). 
