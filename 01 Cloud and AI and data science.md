@@ -38,8 +38,8 @@
 		* GCP is good at the "Dev" part, but especially (and unfortunately only) on brand new things (e.g. AI and big data). 
 		* Azure is also good at the "Dev" part, on all kinds of apps. 
 			- Among the big 3, only Azure has strong business-line application development tradition.
-			    * Even for Java and other non-MS languages, if it is for business-line business-line applications, it is likely Azure will have more and better support.  
-			- So, although we should use all big 3, and although cloud is inherently "integration-oriented", it is likely that Azure will have a special role among the big 3 -- we will use Azure to integrate AWS, Azure, and GCP. 
+			    * Even for Java and other non-MS languages, if it is for business-line applications, it is likely Azure will have more and better support.  
+			- So, although we should use all big 3, and although cloud is inherently "integration-oriented", it is likely that Azure will have a special role among the big 3 -- we will use Azure to integrate AWS, Azure, and GCP, with business-line applications. 
   	        
 - The big 2 -- the two old rivaries: MS C# vs Java-and-others 
     * The differences between MS and Sun (Oracle) and later Google, the traditional MS vs open source, are less obvious now, because MS open sourced many things. 
